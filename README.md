@@ -22,7 +22,7 @@ Focus:
   - Cloud Computing
   - Artificial Intelligence
   - Cybersecurity
-````
+```
 
 🎓 Networking (Software Engineering) Student
 
