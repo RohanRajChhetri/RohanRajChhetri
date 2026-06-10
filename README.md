@@ -1,128 +1,176 @@
-# Hi there 👋, I'm Rohan
+<h1 align="center">Hi 👋, I'm Rohan Raj Chhetri</h1>
 
-<div align="center">
+<h3 align="center">
+Network Engineer • Software Developer • Cloud Enthusiast • Problem Solver
+</h3>
 
-### Network Engineer | Software Developer | Cloud & Automation Enthusiast
+<p align="center">
+  <a href="https://www.linkedin.com/in/rohan-raj-chhetri/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/RohanRajChhetri">
+    <img src="https://img.shields.io/github/followers/RohanRajChhetri?label=Followers&style=for-the-badge" />
+  </a>
+</p>
 
-Passionate about building scalable applications, designing secure networks, and automating workflows.
-
-</div>
+<p align="center">
+  Passionate about building scalable software, designing secure networks,
+  exploring cloud technologies, and automating workflows.
+</p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🎓 Student and aspiring IT Professional
-- 🌐 Interested in Network Engineering, Cloud Computing, and Cybersecurity
-- 💻 Full-Stack Developer with experience in React and Django
-- 🤖 Exploring AI, Automation, and Workflow Orchestration with n8n
-- ☁️ Learning AWS and Cloud Infrastructure
-- 📈 Building projects that solve real-world problems
+🎓 IT Student & Technology Enthusiast
+
+💻 Full-Stack Developer using React and Django
+
+🌐 Interested in Networking, Cloud Computing, and Cybersecurity
+
+☁️ Learning AWS Cloud Architecture & DevOps
+
+🤖 Building AI-powered automation systems with n8n
+
+📈 Always exploring new technologies and real-world solutions
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript" />
+</p>
 
-### Frontend
+### Frontend Development
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
 
-### Backend
+### Backend Development
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/DRF-red?style=for-the-badge)
+<p>
+<img src="https://skillicons.dev/icons?i=django" />
+</p>
 
 ### Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,git,github,docker" />
+</p>
 
 ### Networking & Infrastructure
 
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge)
+- Cisco Networking
+- Active Directory
+- Windows Server
+- DNS
+- DHCP
+- IIS
+- Network Design
+- VLAN Configuration
+- Routing & Switching
 
 ---
 
-## 📌 Featured Projects
+# 🌟 Featured Projects
 
-### 🎵 Online Audio Streaming System
-A Spotify-inspired platform featuring:
-- Secure Authentication
-- Smart Search
+## 🎵 Online Audio Streaming System
+
+A Spotify-inspired streaming platform featuring:
+
+- User Authentication & Authorization
+- Smart Search Functionality
 - Personalized Recommendations
-- Real-Time Audio Streaming
+- Real-Time Streaming
 - Free & Premium User Tiers
 
-### 🏢 Enterprise Active Directory Infrastructure
+---
+
+## 🏢 Enterprise Active Directory Infrastructure
+
 Implemented:
+
 - Multi-Domain Active Directory
 - DHCP Services
 - DNS Delegation
-- IIS Web Services
-- Group Policies
+- IIS Deployment
+- Group Policy Management
 
-### 🤖 AI Content Automation
-Automated workflow for generating and publishing short-form videos using:
+---
+
+## 🤖 AI Content Automation
+
+Automated social media content generation using:
+
 - n8n
-- AI Tools
-- Social Media APIs
+- AI APIs
+- Automated Publishing Workflows
+- Short-form Video Generation
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RohanRajChhetri&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RohanRajChhetri&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanRajChhetri&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🎯 Current Goals
+# 🏆 GitHub Trophies
 
-- Master AWS Cloud Architecture
-- Earn Industry Certifications
-- Build SaaS Applications
-- Learn DevOps & Kubernetes
-- Create Multiple Passive Income Streams Through Technology
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=RohanRajChhetri&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
 
 ---
 
-## 🌟 Fun Fact
+# 🎯 Current Focus
 
-> "Technology is best when it brings people together."
+- AWS Cloud Solutions
+- DevOps & Kubernetes
+- AI Automation
+- Full-Stack Development
+- Enterprise Networking
+- SaaS Product Development
 
 ---
 
-## 📫 Connect With Me
+# 📚 Currently Learning
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+- AWS Services
+- Docker & Containerization
+- CI/CD Pipelines
+- Kubernetes
+- Advanced Network Security
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)](https://YOUR_PORTFOLIO_URL)
+---
 
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+# 🤝 Let's Connect
+
+<p align="center">
+<a href="https://www.linkedin.com/in/rohan-raj-chhetri/">
+<img src="https://img.shields.io/badge/LinkedIn-Rohan%20Raj%20Chhetri-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+</p>
 
 ---
 
@@ -130,6 +178,6 @@ Automated workflow for generating and publishing short-form videos using:
 
 ### ⭐ Thanks for visiting my profile!
 
-"Building solutions, learning continuously, and turning ideas into reality."
+*"Turning ideas into scalable solutions through software, networking, and automation."*
 
 </div>
