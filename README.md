@@ -1,183 +1,211 @@
-<h1 align="center">Hi 👋, I'm Rohan Raj Chhetri</h1>
+````md
+<div align="center">
 
-<h3 align="center">
-Network Engineer • Software Developer • Cloud Enthusiast • Problem Solver
-</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Rohan+Raj+Chhetri;Network+Engineer;Software+Engineer;AI+Developer;Cloud+Enthusiast;Building+the+Future+with+Code+%F0%9F%9A%80" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rohan-raj-chhetri/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/RohanRajChhetri">
-    <img src="https://img.shields.io/github/followers/RohanRajChhetri?label=Followers&style=for-the-badge" />
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=RohanRajChhetri&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
-<p align="center">
-  Passionate about building scalable software, designing secure networks,
-  exploring cloud technologies, and automating workflows.
-</p>
+</div>
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
-🎓 IT Student & Technology Enthusiast
+```yaml
+Name: Rohan Raj Chhetri
+Location: Melbourne, Australia
+Education: Bachelor of Networking (Software Engineering)
+GPA: 6.38
+Focus:
+  - Software Engineering
+  - Networking
+  - Cloud Computing
+  - Artificial Intelligence
+  - Cybersecurity
+````
 
-💻 Full-Stack Developer using React and Django
+🎓 Networking (Software Engineering) Student
 
-🌐 Interested in Networking, Cloud Computing, and Cybersecurity
+🌐 Passionate about Enterprise Networking
 
-☁️ Learning AWS Cloud Architecture & DevOps
+💻 Full-Stack Developer
 
-🤖 Building AI-powered automation systems with n8n
+☁️ Learning AWS & DevOps
 
-📈 Always exploring new technologies and real-world solutions
+🤖 Building AI-Powered Applications
+
+🚀 Always Exploring Emerging Technologies
 
 ---
 
-# 🛠️ Tech Stack
+# ⚡ Tech Stack
 
-### Programming Languages
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,javascript" />
-</p>
+### Languages
 
-### Frontend Development
+<img src="https://skillicons.dev/icons?i=python,java,javascript,cs,html,css,sql" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css" />
-</p>
+### Frameworks & Libraries
 
-### Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=django" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,django,fastapi" />
 
 ### Cloud & DevOps
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,git,github,docker" />
-</p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" />
 
-### Networking & Infrastructure
+### Tools & Networking
 
-- Cisco Networking
-- Active Directory
-- Windows Server
-- DNS
-- DHCP
-- IIS
-- Network Design
-- VLAN Configuration
-- Routing & Switching
+<img src="https://skillicons.dev/icons?i=vscode" />
+
+</div>
 
 ---
 
-# 🌟 Featured Projects
+# 🚀 Featured Projects
 
-## 🎵 Online Audio Streaming System
+### 🎵 Online Audio Streaming System
 
-A Spotify-inspired streaming platform featuring:
+Spotify-inspired music streaming platform featuring:
 
-- User Authentication & Authorization
-- Smart Search Functionality
-- Personalized Recommendations
-- Real-Time Streaming
-- Free & Premium User Tiers
-
----
-
-## 🏢 Enterprise Active Directory Infrastructure
-
-Implemented:
-
-- Multi-Domain Active Directory
-- DHCP Services
-- DNS Delegation
-- IIS Deployment
-- Group Policy Management
+* User Authentication
+* Smart Search
+* Personalized Recommendations
+* Real-Time Streaming
+* Premium & Free Tiers
 
 ---
 
-## 🤖 AI Content Automation
+### 🤖 AI Programming Challenge Generator
 
-Automated social media content generation using:
-
-- n8n
-- AI APIs
-- Automated Publishing Workflows
-- Short-form Video Generation
+* FastAPI Backend
+* React Frontend
+* Local LLM Integration
+* Dynamic Coding Challenges
 
 ---
 
-# 📊 GitHub Statistics
+### 💬 Real-Time Messaging Platform
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RohanRajChhetri&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
+* Django Channels
+* WebSockets
+* Authentication
+* Persistent Chat Storage
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RohanRajChhetri&theme=tokyonight&hide_border=true"/>
-</p>
+---
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanRajChhetri&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+### 🚗 License Plate Recognition System
+
+* YOLO
+* EasyOCR
+* OpenCV
+* Python
+
+---
+
+### 🌐 Enterprise Network Design
+
+* OSPF Routing
+* VLAN Segmentation
+* DHCP
+* DNS
+* ACL Security
+
+---
+
+# 📜 Certifications
+
+🏆 IBM Information Technology Fundamentals
+
+🏆 Security Basics
+
+🏆 Computer Networking Basics
+
+🏆 Web Development Basics
+
+🏆 IT Support Fundamentals
+
+🏆 Hardware & Network Troubleshooting
+
+🏆 Customer Network Support
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RohanRajChhetri&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RohanRajChhetri&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanRajChhetri&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RohanRajChhetri&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=RohanRajChhetri&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
 
 ---
 
-# 🎯 Current Focus
+# 📈 Contribution Graph
 
-- AWS Cloud Solutions
-- DevOps & Kubernetes
-- AI Automation
-- Full-Stack Development
-- Enterprise Networking
-- SaaS Product Development
+<div align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RohanRajChhetri&theme=tokyo-night&hide_border=true" />
 
-# 📚 Currently Learning
-
-- AWS Services
-- Docker & Containerization
-- CI/CD Pipelines
-- Kubernetes
-- Advanced Network Security
+</div>
 
 ---
 
-# 🤝 Let's Connect
+# 🐍 Contribution Snake
 
-<p align="center">
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/RohanRajChhetri/RohanRajChhetri/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+* ☁️ AWS Certifications
+* 🐳 Docker & Kubernetes
+* 🤖 Advanced AI Applications
+* 🌐 Enterprise Network Engineering
+* 🚀 SaaS Product Development
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
 <a href="https://www.linkedin.com/in/rohan-raj-chhetri/">
-<img src="https://img.shields.io/badge/LinkedIn-Rohan%20Raj%20Chhetri-blue?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Rohan%20Raj%20Chhetri-blue?style=for-the-badge&logo=linkedin"/>
 </a>
-</p>
+
+<a href="mailto:rohanrajchhetri2005@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⚡ "Building software, networks, and intelligent systems that make an impact."
 
-*"Turning ideas into scalable solutions through software, networking, and automation."*
+⭐ Thanks for visiting my profile!
 
 </div>
+```
