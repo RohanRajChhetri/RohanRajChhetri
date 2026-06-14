@@ -52,9 +52,6 @@ currently_learning:
 
 ## Featured Projects
 
-### Online Audio Streaming Platform
-A Spotify-inspired music streaming system with user authentication, smart search, personalized recommendations, real-time streaming, and tiered subscription plans.
-
 ### AI Programming Challenge Generator
 An application that generates dynamic coding challenges using a FastAPI backend, React frontend, and local LLM integration.
 
